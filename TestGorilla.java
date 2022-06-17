@@ -1,4 +1,5 @@
 public class TestGorilla {
+    
     public static void main(String[] args) {
         Gorilla gorilla = new Gorilla(100);
         gorilla.throwSomething();
@@ -7,5 +8,7 @@ public class TestGorilla {
         gorilla.eatBananas();
         gorilla.eatBananas();
         gorilla.climb();
+
     }
+
 }
